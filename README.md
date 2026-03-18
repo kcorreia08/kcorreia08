@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kauã Correia!
 
-<!--
-**kcorreia08/kcorreia08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de Engenharia e desenvolvedor em evolução  
+💻 Focado em desenvolvimento Web 
+📍 Fortaleza- CE / Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias
+
+### 💻 Linguagens
+![My Skills](https://skillicons.dev/icons?i=python,java,js,ts)
+
+### 🎨 Front-end
+![Front](https://skillicons.dev/icons?i=html,css,react)
+
+### ⚙️ Back-end
+![Back](https://skillicons.dev/icons?i=nodejs)
+
+### 🗄️ Banco de Dados
+![DB](https://skillicons.dev/icons?i=mysql,sqlite)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kcorreia08&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcorreia08&layout=compact&theme=dark)
+
+---
+
+## 🚀 Sobre mim
+
+- 📚 Sempre aprendendo novas tecnologias  
+- 🔥 Buscando evoluir como dev todos os dias  
