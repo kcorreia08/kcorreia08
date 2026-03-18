@@ -2,7 +2,6 @@
 
 🚀 Estudante de Engenharia e desenvolvedor em evolução  
 💻 Focado em desenvolvimento Full Stack. 
-📍 Fortaleza - Ce  
 
 ---
 
@@ -26,3 +25,4 @@
 
 - 📚 Sempre aprendendo novas tecnologias  
 - 🔥 Buscando evoluir como dev todos os dias  
+- 📍 Fortaleza - Ce
