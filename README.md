@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kauã Correia!
+# 👋 Olá, eu sou o Kauã David!
 
 🚀 Estudante de Engenharia e desenvolvedor em evolução  
 💻 Focado em desenvolvimento Full Stack. 
